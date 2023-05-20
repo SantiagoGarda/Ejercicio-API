@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(66, 99, 99);
+}
+
+.div_h1{
+    text-align: center;
+    
+}
+
+h1{
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+img {
+    border-radius: 10px;
+    width: 150px;
+    margin: 5px;
+    filter: drop-shadow(2px 4px 6px rgb(31, 31, 31) );
+    
+   
+    
+}
+
+#contenedor{
+    text-align: center;
+}
+
+img:hover{
+    width: 200px;
+    border-radius: 50%;
+    filter: drop-shadow(2px 4px 6px rgb(43, 190, 210) );
+}
